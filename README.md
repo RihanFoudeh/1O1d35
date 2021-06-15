@@ -14,7 +14,7 @@
 My Link in GitHub : [Here](https://github.com/RihanFoudeh) 
 
 
-|   Name       |      Link                                                                         | 
+|   Name       |      Link                                       | 
 |:--- | :---                                                                          |  
 |Growth-mindset|[Growth-mindset](https://rihanfoudeh.github.io/Reading-note/Growth-mindset ) | 
 |read01|[read01](https://rihanfoudeh.github.io/Reading-note/read01)             |
