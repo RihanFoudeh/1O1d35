@@ -2,6 +2,15 @@
 
 
 
+
+
+
+# Table of Contents
+1. [read01](https://rihanfoudeh.github.io/Reading-note/read01)
+2. [read02](https://rihanfoudeh.github.io/Reading-note/read02)
+
+
+
 # Growth mindset
 
 
