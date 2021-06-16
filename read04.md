@@ -8,3 +8,16 @@
 + Information is added to a form
 + interval of time has passed
 + web page has finished loading
+
+
+![javascript](https://cdn.lynda.com/course/574716/574716-637511602827777693-16x9.jpg)
+
+
+
+
+
+
+If you want to read more, click [Javascript](https://www.w3schools.com/js/default.asp)
+
+
+
