@@ -18,6 +18,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 # Reading Notes
 
  # Code 102 - Intro to Software Development
+ 
 | Assignment      	 |  Link     |
 | :---         |    :----:  |  
 | Growth-mindset|[Growth-mindset](https://rihanfoudeh.github.io/Reading-note/Growth-mindset )  |
