@@ -20,3 +20,11 @@
 ## Also, comments can be added within the source code for those who may be able to view them, for example if you are working with a team or you can provide yourself with any memory of how to do something or its function, and of course these comments cannot be seen on the web.
 
 ![HTML](https://www.oreilly.com/library/view/learning-web-design/9781449337513/httpatomoreillycomsourceoreillyimages2257981.png)
+
+
+# Futures
+
+### Adobe believes that the future of HTML lies in retaining the bulk of HTML's behavioral semantics, its tag set, and associated CSS standard as it transitions to fully XML compatible syntax. 
+### In our opinion, this should take a phased approach as the evolving future of HTML. At the initial stage, HTML is minimally optimized to accommodate XML. 
+### In the next stage, the HTML is modified to have a well-formed XML structure along with the existing structure(s). In the next stage, the semantics of HTML is rendered in a standardized way through the XML Document Object Model via CSS so that any tag can access the semantic behavior of HTML.
+### In this way, XML integrates with HTML. At the last stage, the HTML is embedded by XML; While semantics (layout behaviors) are retained as a presentation capability. This is an approach that we believe provides a smooth migration path to the future of HTML.
