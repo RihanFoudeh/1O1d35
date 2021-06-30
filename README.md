@@ -34,6 +34,16 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 
 
 
+# Code 201 - Foundations of Software Development
+
+
+| Assignment      	 |  Link     |
+| :---         |    :----:  |  
+| Class0-Read01|[	Read: 01 - Introductory HTML and JavaScript](https://rihanfoudeh.github.io/Reading-note/Growth-mindset )  |
+
+
+
+
  
 
 
