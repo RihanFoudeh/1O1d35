@@ -23,14 +23,14 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
  
 | Assignment      	 |  Link     |
 | :---         |    :----:  |  
-| Growth-mindset|[Growth-mindset](https://rihanfoudeh.github.io/Reading-note/Growth-mindset )  |
-|Class1-read01|[read01](https://rihanfoudeh.github.io/Reading-note/read01)             |
-|Class2-read02|[read02](https://rihanfoudeh.github.io/Reading-note/read02)                  |
-|Class3-read03|[read03](https://rihanfoudeh.github.io/Reading-note/read03)                  |
-|Class4-read04|[read04](https://rihanfoudeh.github.io/Reading-note/read04)                  |
-|Class5-read05|[read05](https://rihanfoudeh.github.io/Reading-note/read05)                  |
-|Class6-read06|[read06](https://rihanfoudeh.github.io/Reading-note/read06)                  |
-|Class7-read07|[read07](https://rihanfoudeh.github.io/Reading-note/read07)                  |
+| Growth-mindset|[Growth-mindset](https://github.com/RihanFoudeh/Reading-note/blob/main/102/Growth-mindset )  |
+|Class1-read01|[read01](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read01.md)             |
+|Class2-read02|[read02](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read02.md)                  |
+|Class3-read03|[read03](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read03.md)                  |
+|Class4-read04|[read04](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read04.md)                  |
+|Class5-read05|[read05](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read05.md)                  |
+|Class6-read06|[read06](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read06.md)                  |
+|Class7-read07|[read07](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read07.md)                  |
 
 
 
@@ -39,7 +39,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 
 | Assignment      	 |  Link     |
 | :---         |    :----:  |  
-| Class0-Read01|[	Read: 01 - Introductory HTML and JavaScript](https://rihanfoudeh.github.io/Reading-note/Growth-mindset )  |
+| Class0-Read01|[	Read: 01 - Introductory HTML and JavaScript](https://github.com/RihanFoudeh/Reading-note/blob/main/201/Class01.md )  |
 
 
 
