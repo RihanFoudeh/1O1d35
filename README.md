@@ -17,7 +17,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 
 # Reading Notes
 
-# Code 102 - Intro to Software Development
+# Code 102 Reading Notes
  
  
  
@@ -34,7 +34,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 
 
 
-# Code 201 - Foundations of Software Development
+# Code 201 Reading Notes
 
 
 | Assignment      	 |  Link     |
