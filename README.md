@@ -39,7 +39,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 
 | Assignment      	 |  Link     |
 | :---         |    :----:  |  
-| Class0-Read01|[	Read: 01 - Introductory HTML and JavaScript](https://rihanfoudeh.github.io/Reading-note/201/Class01)  |
+| Class01-Read01|[	Read: 01 - Introductory HTML and JavaScript](https://rihanfoudeh.github.io/Reading-note/201/Class01)  |
 
 
 
