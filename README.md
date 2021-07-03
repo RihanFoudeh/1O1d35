@@ -24,7 +24,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Assignment      	 |  Link     |
 | :---         |    :----:  |  
 | Growth-mindset|[Growth-mindset](https://github.com/RihanFoudeh/Reading-note/blob/main/102/Growth-mindset )  |
-|Class1-read01|[read01](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read01.md)             |
+|Class1-read01|[read01](https://github.com/RihanFoudeh/Reading-note/102/read01.md)             |
 |Class2-read02|[read02](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read02.md)                  |
 |Class3-read03|[read03](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read03.md)                  |
 |Class4-read04|[read04](https://github.com/RihanFoudeh/Reading-note/blob/main/102/read04.md)                  |
