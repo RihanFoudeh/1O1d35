@@ -43,7 +43,7 @@
         </body>
     </html> 
 ```
-
+![11](https://static.javatpoint.com/htmlpages/images/html-layouts.png)
 # Planning before work :
 ### There are several requirements for every web developer to work on before they start writing the code:
 * Knowing the end user of the page, what his interests are, and the services he needs.
