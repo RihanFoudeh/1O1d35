@@ -41,6 +41,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | :---         |    :----:  |  
 | Class01-Read01|[	Read: 01 - Introductory HTML and JavaScript](https://rihanfoudeh.github.io/Reading-note/201/Class01)  |
 | Class02-Read02|[	Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://rihanfoudeh.github.io/Reading-note/201/Class02)  |
+| Class03-Read03|[	Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://rihanfoudeh.github.io/Reading-note/201/Class03)  |
 
 
 
