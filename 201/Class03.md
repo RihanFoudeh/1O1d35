@@ -1,107 +1,107 @@
-# Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
+# HTML Lists, CSS Boxes, JS Control Flow summary :
 
+**Lists:** <br>
+There are three types of HTML lists: **ordered**, **unordered**, and **definition**. <br>
 
-# HTML :
+**Ordered lists** use numbers.  <ol> <br>
+**Unordered lists** use bullets. <ul> <br>
+........................................................................................ <br> 
 
-### HTML provides three types of lists : Ordered lists <ol> list is numbered, Unordered lists <ul> list is not numbered, Definition lists <dl> terms that we want to put explain ,In addition, we can include a list within a list.
-```HTML
-<ul>
-  <li> .... </li>
-  <li> 
-    <ol>
-      <li> .... </li>
-      <li> .... </li>
-    </ol>
-  </li>
-  <li> .... </li>
-</ul>
+ **Definition lists** are used to define terminology. <br>
 
-<dl>
-  <dt> terms want to explain </dt>
-  <dd> explanation </dd>
-  <dt> terms want to explain </dt>
-  <dd> explanation </dd>
-</dl>
-```
-# css : 
-### We use Height and Width to reset the size of any box inside the html.
-### We can determine the minimum width, length, highest width and length by:min-width, max-width, min-height, max-height.
-### overflow : use it if the content contained within a box is larger  than the box itself.By using it, we can hidden the excess content or scroll so that we can read the entire content.
-### any box in the html has three properties border, margin, padding ,It can be modified like the color of spaces or even the pattern of punctuation.
-### Text can be aligned and centered for example through : text-align.
-### We can present properties in several forms, three examples of them:inline ,block ,inline-block-none ,none .
-### We can hide or show the element by , visibility: hidden /visible.
-### We can place a shadow behind any box by : box-shadow.
-### We can define edges for any box by : border-radius.
+< dt> is used to contain the definition term. <br>
+< dl> is used when we want to create a definition list. <br>
+< dd> is used to contain the definition. <br>
+........................................................................................ <br> 
+ <br>  
+Lists can be nested inside one another. <br>
+........................................................................................ <br> 
+ 
+**Boxes :** <br>
 
+**Box dimensions** : width , height. <br>
+**Limiting width** : min-width , max-width. <br>
+**Limiting height** : min-height , max-height. <br>
+........................................................................................ <br> 
 
-## Some examples :
-```CSS
-height: Size in px or percentage;
-width: Size in px or percentage;
-min-width: Size in px or percentage;
-max-width: Size in px or percentage;
-min-height: Size in px or percentage;
-max-height: Size in px or percentage;
-overflow: hidden;
-overflow: scroll;
-text-align: center;
-```
+**Overflow content:** <br> 
+When the content is larger than the box itself. <br> 
+We use “overflow: hidden” to hide any extra content. <br>
+If you want the user to scroll to see the missing content use “overflow: scroll”. <br>
 
-# javascript :
-### An array is a special variable, which can hold more than one value at a time, An array can hold many values under a single name, and you can access the values by referring to an index number ,The count inside array starts at index 0.
-#### Ex :
-```JAVASCRIPT
-var array_name = [item1, item2, ...]; 
-```
-### if statement to specify a block of JavaScript code to be executed if a condition is true.
+**Every box has three variable properties:** <br> 
 
-#### Ex :
-```JAVASCRIPT
-if (condition1) {
-  //  block of code to be executed if condition1 is true
-} else if (condition2) {
-  //  block of code to be executed if the condition1 is false and condition2 is true
-} else {
-  //  block of code to be executed if all condition1 is false
-}
-```
-### switch statement is used to perform different actions based on different conditions.
+ **border** : it separated the edge of one box from another. <br> 
+ **margin** : it is outside of the edge of the border. <br> 
+-**padding** : it is the space between the border of a box and any content within it. <br>
+........................................................................................ <br> 
+**White space** : the space between items on a page. <br>
+........................................................................................ <br> 
+ 
 
-#### Ex :
-```JAVASCRIPT
-switch(Value) {
-  case x:
-    // code block
-    break; // To finish code block
-  case y:
-    // code block
-    break; // To finish code block
-  default: // If all conditions do not match
-    // code block
-}
-```
+**Every box has three variable properties:** <br> 
 
-### Type coercion : JavaScript understands the type of input variables on their own, but in some other programming languages the type of input must be specified.
+1- border : it separated the edge of one box from another. <br> 
 
-### There is two types of values truthy and falsy
+2- margin : it is outside of the edge of the border. <br> 
 
-### Loops can execute a block of code a number of times, and there are 3 main types, which are: for, while, do while. And there is one difference between them is that do while you execute the first time before checking the condition.
+3- padding : it is the space between the border of a box and any content within it. <br> 
 
-#### Ex :
-```JAVASCRIPT
-for ( sets a variable ; condition ; increases ) {
-  // code block to be executed
-}
+**There's many preporities of "border" , such as :** <br> 
+borde- width, border-style, border-color.. <br> 
 
-while (condition) {
-  // code block to be executed
-}
+**Centering:** <br>
+If you want centering a content use <br> 
+**Left-margin : auto** <br>
+**Right-margin : auto** <br>
 
-do {
-  code block to be executed
-}
-while (condition);
-```
+**Display :** <br> 
+**display: inline** = Displays an element as an inline element (like < span>). <br>
+**display: block** = Displays an element as a block element (like < p>). It starts on a new line, and takes up the whole width. <br>
+**display: inline-block** = The element itself is formatted as an inline element, but you can apply height and width values. <br>
+**display: none** = The element is completely removed. <br>
 
+**Visibility:** <br> 
 
+**Visibility: hidden** = this hides the element. <br>
+**Visibility: visible** = it shows the element. <br>
+
+**Border images :** <br>
+allows you to specify an image to be used as the border around an element. <br>
+
+**This property requires three pieces of information:**
+1- The URL of the image. <br>
+2- Where to slice the image. <br>
+3- What to do with the straight edges. <br>
+
+**Box-shadow :** <br> 
+It allows you to add a drop shadow around a box. <br>
+**It comes with these values :** <br> 
+- horizontal offset. 
+- Vertical offset.
+- Blur distance.
+- Spread of shadow
+
+**Border radius :** <br> 
+It create rounded corners on any box.<br>
+........................................................................................ <br> 
+**Arrays :** <br> 
+A special type of variable. It doesn't just store one value; it stores a list of values. <br>
+You create it by giving it a var and the name of the array. <br>
+Values of arrays are accessed as if they are a numbered list. <br>
+........................................................................................ <br> 
+**If else statement :** <br>
+**How does it work?** <br>
+First it checks a condition If resolves to true the first code block is executed, but if it resolves to false the second block is run instead. <br>
+
+**Switch statement :** <br> 
+**How does it work?** <br>
+It starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value. <br>
+
+**Loops :** <br>
+
+**For / while / Do while.** <br>
+
+It check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false. <br> 
+
+**Loops counters :** *initialization/ condition/ update.* 
