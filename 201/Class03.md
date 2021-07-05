@@ -105,4 +105,3 @@ while (condition);
 ```
 
 
-[ Back To README !]( https://RihanFoudeh.github.io/reading-notes/ )
