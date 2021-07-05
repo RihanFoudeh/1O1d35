@@ -112,4 +112,3 @@ switch(expression) {
 }
 ```
 
-[Back To README!](https://yousefabujalboush.github.io/reading-notes/)
