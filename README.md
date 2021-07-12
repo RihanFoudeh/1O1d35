@@ -46,6 +46,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class05-Read05|[	Read: 05 - HTML Images; CSS Color & Text](https://rihanfoudeh.github.io/Reading-note/201/Class05)  |
 | Class06-Read06|[	Read: 06 - JS Object Literals; The DOM Summary](https://rihanfoudeh.github.io/Reading-note/201/Class06)  |
 | Class07-Read07|[	Read: 07 - HTML Tables; JS Constructor Functions](https://rihanfoudeh.github.io/Reading-note/201/Class07)  |
+| Class08-Read08|[	Read: 08 - More CSS Layout](https://rihanfoudeh.github.io/Reading-note/201/Class08)  |
 
 
 
