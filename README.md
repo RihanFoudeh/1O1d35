@@ -47,6 +47,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class06-Read06|[	Read: 06 - JS Object Literals; The DOM Summary](https://rihanfoudeh.github.io/Reading-note/201/Class06)  |
 | Class07-Read07|[	Read: 07 - HTML Tables; JS Constructor Functions](https://rihanfoudeh.github.io/Reading-note/201/Class07)  |
 | Class08-Read08|[	Read: 08 - More CSS Layout](https://rihanfoudeh.github.io/Reading-note/201/Class08)  |
+| Class09-Read09|[	Read: 09 - Forms and Events](https://rihanfoudeh.github.io/Reading-note/201/Class09)  |
+
 
 
 
