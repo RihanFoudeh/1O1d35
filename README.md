@@ -49,6 +49,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class08-Read08|[	Read: 08 - More CSS Layout](https://rihanfoudeh.github.io/Reading-note/201/Class08)  |
 | Class09-Read09|[	Read: 09 - Forms and Events](https://rihanfoudeh.github.io/Reading-note/201/Class09)  |
 | Class10-Read10|[	Read: 10 - JS Debugging](https://rihanfoudeh.github.io/Reading-note/201/Class10)  |
+| Class11-Read11|[	Read: 11 - Assorted Topics](https://rihanfoudeh.github.io/Reading-note/201/Class11)  |
+
 
 
 
