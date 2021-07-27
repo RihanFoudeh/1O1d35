@@ -53,6 +53,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class12-Read12|[	Read: 12 - Docs for the HTML canvas  Element & Chart.js](https://rihanfoudeh.github.io/Reading-note/201/Class12)  |
 | Class13-Read13|[	Read: 13 - Local Storage](https://rihanfoudeh.github.io/Reading-note/201/Class13)  |
 | Class14-Read14a|[	Read: 14a - CSS Transforms, Transitions, and Animations](https://rihanfoudeh.github.io/Reading-note/201/Class14a)  |
+| Class14-Read14b|[	Read: 14b - What Google Learned About Teams](https://rihanfoudeh.github.io/Reading-note/201/Class14b)  |
+
 
 
 
