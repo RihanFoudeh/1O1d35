@@ -58,8 +58,12 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 
 
 
+# Code 301 - Intermediate Software Development
 
 
+| Assignment      	 |  Link     |
+| :---         |    :----:  |  
+| Class01-Read01|[	Read: 01 -Introduction to React and Components](https://rihanfoudeh.github.io/Reading-note/301/Class01)  |
 
 
 
