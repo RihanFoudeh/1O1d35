@@ -64,6 +64,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Assignment      	 |  Link     |
 | :---         |    :----:  |  
 | Class01-Read01|[	Read: 01 -Introduction to React and Components](https://rihanfoudeh.github.io/Reading-note/301/Class01)  |
+| Class02-Read02|[	Read: 02 -State and Props](https://rihanfoudeh.github.io/Reading-note/301/Class02)  |
+
 
 
 
