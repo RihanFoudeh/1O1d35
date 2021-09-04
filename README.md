@@ -68,6 +68,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class03-Read03|[	Read: 03 -Passing Functions as Props](https://rihanfoudeh.github.io/Reading-note/301/Class03)  |
 | Class04-Read04|[	Read: 04 -React and Forms](https://rihanfoudeh.github.io/Reading-note/301/Class04)  |
 | Class05-Read05|[	Read: 05 -Putting it all together](https://rihanfoudeh.github.io/Reading-note/301/Class05)  |
+| Class06-Read06|[	Read: 06 -NODE.JS](https://rihanfoudeh.github.io/Reading-note/301/Class06)  |
+
 
 
 
