@@ -69,6 +69,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class04-Read04|[	Read: 04 -React and Forms](https://rihanfoudeh.github.io/Reading-note/301/Class04)  |
 | Class05-Read05|[	Read: 05 -Putting it all together](https://rihanfoudeh.github.io/Reading-note/301/Class05)  |
 | Class06-Read06|[	Read: 06 -NODE.JS](https://rihanfoudeh.github.io/Reading-note/301/Class06)  |
+| Class07-Read07|[	Read: 07 -REST](https://rihanfoudeh.github.io/Reading-note/301/Class07)  |
+
 
 
 
