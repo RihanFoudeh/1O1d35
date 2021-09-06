@@ -70,6 +70,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class05-Read05|[	Read: 05 -Putting it all together](https://rihanfoudeh.github.io/Reading-note/301/Class05)  |
 | Class06-Read06|[	Read: 06 -NODE.JS](https://rihanfoudeh.github.io/Reading-note/301/Class06)  |
 | Class07-Read07|[	Read: 07 -REST](https://rihanfoudeh.github.io/Reading-note/301/Class07)  |
+| Class08-Read08|[	Read: 08 - APIs](https://rihanfoudeh.github.io/Reading-note/301/Class08)  |
+
 
 
 
