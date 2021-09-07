@@ -71,6 +71,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class06-Read06|[	Read: 06 -NODE.JS](https://rihanfoudeh.github.io/Reading-note/301/Class06)  |
 | Class07-Read07|[	Read: 07 -REST](https://rihanfoudeh.github.io/Reading-note/301/Class07)  |
 | Class08-Read08|[	Read: 08 - APIs](https://rihanfoudeh.github.io/Reading-note/301/Class08)  |
+| Class09-Read09|[	Read: 09 - FUNCTIONAL PROGRAMMING](https://rihanfoudeh.github.io/Reading-note/301/Class09)  |
+
 
 
 
