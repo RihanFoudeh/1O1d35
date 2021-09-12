@@ -74,6 +74,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class09-Read09|[	Read: 09 - FUNCTIONAL PROGRAMMING](https://rihanfoudeh.github.io/Reading-note/301/Class09)  |
 | Class10-Read10|[	Read: 10 - In memory storage](https://rihanfoudeh.github.io/Reading-note/301/Class10)  |
 | Class11-Read11|[	Read: 11 - Mongo and Mongoose](https://rihanfoudeh.github.io/Reading-note/301/Class11)  |
+| Class14-Read14|[	Read: 14 - Authentication](https://rihanfoudeh.github.io/Reading-note/301/Class14)  |
+
 
 
 
