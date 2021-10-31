@@ -89,6 +89,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Assignment      	 |  Link     |
 | :---         |    :----:  |  
 | Class01-Read01|[	Read: 01 -Readings: Topic](https://rihanfoudeh.github.io/Reading-note/401/Class01)  |
+| Class02-Read02|[	Read: 02 -Testing and Modules](https://rihanfoudeh.github.io/Reading-note/401/Class02)  |
+
 
 
 
