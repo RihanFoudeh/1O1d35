@@ -93,6 +93,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class03-Read03|[	Read: 03 -FileIO & Exceptions](https://rihanfoudeh.github.io/Reading-note/401/Class03)  |
 | Class04-Read04|[	Read: 04 -Topic](https://rihanfoudeh.github.io/Reading-note/401/Class04)  |
 | Class05-Read05|[	Read: 05 -Linked Lists](https://rihanfoudeh.github.io/Reading-note/401/Class05)  |
+| Class06-Read06|[	Read: 06 -Game of Greed 1](https://rihanfoudeh.github.io/Reading-note/401/Class06)  |
+
 
 
 
