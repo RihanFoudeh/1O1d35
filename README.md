@@ -94,6 +94,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class04-Read04|[	Read: 04 -Topic](https://rihanfoudeh.github.io/Reading-note/401/Class04)  |
 | Class05-Read05|[	Read: 05 -Linked Lists](https://rihanfoudeh.github.io/Reading-note/401/Class05)  |
 | Class06-Read06|[	Read: 06 -Game of Greed 1](https://rihanfoudeh.github.io/Reading-note/401/Class06)  |
+| Class07-Read07|[	Read: 07 -Game of Greed 2](https://rihanfoudeh.github.io/Reading-note/401/Class07)  |
+
 
 
 
