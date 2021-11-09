@@ -96,6 +96,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class06-Read06|[	Read: 06 -Game of Greed 1](https://rihanfoudeh.github.io/Reading-note/401/Class06)  |
 | Class07-Read07|[	Read: 07 -Game of Greed 2](https://rihanfoudeh.github.io/Reading-note/401/Class07)  |
 | Class08-Read08|[	Read: 08 -Game of Greed 3](https://rihanfoudeh.github.io/Reading-note/401/Class08)  |
+| Class09-Read09|[	Read: 09 -Game of Greed 4](https://rihanfoudeh.github.io/Reading-note/401/Class09)  |
+
 
 
 
