@@ -98,6 +98,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class08-Read08|[	Read: 08 -Game of Greed 3](https://rihanfoudeh.github.io/Reading-note/401/Class08)  |
 | Class09-Read09|[	Read: 09 -Game of Greed 4](https://rihanfoudeh.github.io/Reading-note/401/Class09)  |
 | Class10-Read10|[	Read: 10 -Stacks and Queues](https://rihanfoudeh.github.io/Reading-note/401/Class10)  |
+| Class11-Read11|[	Read: 11 -Data Analysis](https://rihanfoudeh.github.io/Reading-note/401/Class11)  |
+
 
 
 
