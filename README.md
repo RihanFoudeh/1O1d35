@@ -101,6 +101,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class11-Read11|[	Read: 11 -Data Analysis](https://rihanfoudeh.github.io/Reading-note/401/Class11)  |
 | Class12-Read12|[	Read: 12 -Pandas ](https://rihanfoudeh.github.io/Reading-note/401/Class12)  |
 | Class13-Read13|[	Read: 13 -Linear Regressions ](https://rihanfoudeh.github.io/Reading-note/401/Class13)  |
+| Class14-Read14|[	Read: 14 -Data Visualization ](https://rihanfoudeh.github.io/Reading-note/401/Class14)  |
+
 
 
 
