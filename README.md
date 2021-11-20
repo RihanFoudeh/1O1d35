@@ -103,6 +103,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class13-Read13|[	Read: 13 -Linear Regressions ](https://rihanfoudeh.github.io/Reading-note/401/Class13)  |
 | Class14-Read14|[	Read: 14 -Data Visualization ](https://rihanfoudeh.github.io/Reading-note/401/Class14)  |
 | Class15-Read15|[	Read: 15 -Trees ](https://rihanfoudeh.github.io/Reading-note/401/Class15)  |
+| Class16-Read16|[	Read: 16 -Machine Learning Intro ](https://rihanfoudeh.github.io/Reading-note/401/Class16)  |
+
 
 
 
