@@ -105,6 +105,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class15-Read15|[	Read: 15 -Trees ](https://rihanfoudeh.github.io/Reading-note/401/Class15)  |
 | Class16-Read16|[	Read: 16 -Machine Learning Intro ](https://rihanfoudeh.github.io/Reading-note/401/Class16)  |
 | Class17-Read17|[	Read: 17 -Web Scraping ](https://rihanfoudeh.github.io/Reading-note/401/Class17)  |
+| Class18-Read18|[	Read: 18 -Automation ](https://rihanfoudeh.github.io/Reading-note/401/Class18)  |
+
 
 
 
