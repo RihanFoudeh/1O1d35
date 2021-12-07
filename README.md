@@ -108,6 +108,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class18-Read18|[	Read: 18 -Automation ](https://rihanfoudeh.github.io/Reading-note/401/Class18)  |
 | Class26-Read26|[	Read: 26 -Intro to Django ](https://rihanfoudeh.github.io/Reading-note/401/Class26)  |
 | Class27-Read27|[	Read: 27 -Django Models ](https://rihanfoudeh.github.io/Reading-note/401/Class27)  |
+| Class28-Read28|[	Read: 28 -Django CRUD and Forms ](https://rihanfoudeh.github.io/Reading-note/401/Class28)  |
+
 
 
 
