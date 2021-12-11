@@ -111,6 +111,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class28-Read28|[	Read: 28 -Django CRUD and Forms ](https://rihanfoudeh.github.io/Reading-note/401/Class28)  |
 | Class29-Read29|[	Read: 29 -Django Custom User ](https://rihanfoudeh.github.io/Reading-note/401/Class29)  |
 | Class30-Read30|[	Read: 30 - Hash Tables ](https://rihanfoudeh.github.io/Reading-note/401/Class30)  |
+| Class31-Read31|[	Read: 31 - Django REST Framework & Docker ](https://rihanfoudeh.github.io/Reading-note/401/Class31)  |
+
 
 
 
