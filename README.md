@@ -113,6 +113,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class30-Read30|[	Read: 30 - Hash Tables ](https://rihanfoudeh.github.io/Reading-note/401/Class30)  |
 | Class31-Read31|[	Read: 31 - Django REST Framework & Docker ](https://rihanfoudeh.github.io/Reading-note/401/Class31)  |
 | Class32-Read32|[	Read: 32 - Permissions & Postgresql ](https://rihanfoudeh.github.io/Reading-note/401/Class32)  |
+| Class33-Read33|[	Read: 33 - Authentication & Production ](https://rihanfoudeh.github.io/Reading-note/401/Class33)  |
+
 
 
 
