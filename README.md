@@ -114,6 +114,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class31-Read31|[	Read: 31 - Django REST Framework & Docker ](https://rihanfoudeh.github.io/Reading-note/401/Class31)  |
 | Class32-Read32|[	Read: 32 - Permissions & Postgresql ](https://rihanfoudeh.github.io/Reading-note/401/Class32)  |
 | Class33-Read33|[	Read: 33 - Authentication & Production ](https://rihanfoudeh.github.io/Reading-note/401/Class33)  |
+| Class34-Read34|[	Read: 34 - API Deployment ](https://rihanfoudeh.github.io/Reading-note/401/Class34)  |
+
 
 
 
