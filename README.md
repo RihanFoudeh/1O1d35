@@ -115,6 +115,8 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class32-Read32|[	Read: 32 - Permissions & Postgresql ](https://rihanfoudeh.github.io/Reading-note/401/Class32)  |
 | Class33-Read33|[	Read: 33 - Authentication & Production ](https://rihanfoudeh.github.io/Reading-note/401/Class33)  |
 | Class34-Read34|[	Read: 34 - API Deployment ](https://rihanfoudeh.github.io/Reading-note/401/Class34)  |
+| Class35-Read35|[	Read: 35 - Graphs ](https://rihanfoudeh.github.io/Reading-note/401/Class35)  |
+
 
 
 
