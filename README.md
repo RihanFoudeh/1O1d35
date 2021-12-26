@@ -122,6 +122,7 @@ My Link in GitHub : [Here](https://github.com/RihanFoudeh)
 | Class39-Read39|[	Read: 39 - React 3 ](https://rihanfoudeh.github.io/Reading-note/401/Class39)  |
 | Class41-Read41|[	Read: 41 - React 4 ](https://rihanfoudeh.github.io/Reading-note/401/Class41)  |
 | Class42-Read42|[	Read: 42 - Pythonisms ](https://rihanfoudeh.github.io/Reading-note/401/Class42)  |
+| Class42-Read42-Ethics |[	Read: 42 - Ethics in Tech ](https://rihanfoudeh.github.io/Reading-note/401/Class42-Ethics.md)  |
 
 
 
